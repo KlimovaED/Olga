@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Olga/static/css/main.31d6cfe0.css",
+    "main.js": "/Olga/static/js/main.a75110eb.js",
+    "static/js/787.25eaef86.chunk.js": "/Olga/static/js/787.25eaef86.chunk.js",
+    "static/media/1B7A6321-2.webp": "/Olga/static/media/1B7A6321-2.11e7450e191ed08b450d.webp",
+    "static/media/1B7A6379.webp": "/Olga/static/media/1B7A6379.266934d54ea25220dc72.webp",
+    "static/media/1B7A6222.webp": "/Olga/static/media/1B7A6222.b81ac8525d9530cb89da.webp",
+    "static/media/1B7A6254.webp": "/Olga/static/media/1B7A6254.f66cd01af1378ae0f1c0.webp",
+    "static/media/1B7A6452.webp": "/Olga/static/media/1B7A6452.bf2b366f0182fa1678a4.webp",
+    "static/media/icon-sprite.svg": "/Olga/static/media/icon-sprite.593d4f3bdfe75fe3b13053f5a15c2a0a.svg",
+    "index.html": "/Olga/index.html",
+    "main.a75110eb.js.map": "/Olga/static/js/main.a75110eb.js.map",
+    "787.25eaef86.chunk.js.map": "/Olga/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a75110eb.js"
+  ]
+}
